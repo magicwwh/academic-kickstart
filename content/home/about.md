@@ -22,7 +22,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "M.Sc. in Computer Science and Technology"
+  course = """M.Sc. in Computer Science and Technology"""
   institution = "Beijing University of Posts and Telecommunications"
   year = 2012
 
