@@ -17,19 +17,19 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Computer Science"
+  institution = "The University of Texas at Dallas"
+  year = 2019
+
+[[education.courses]]
+  course = "M.Sc. in Computer Science and Technology"
+  institution = "Beijing University of Posts and Telecommunications"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "B.Sc. in Telecommunication Engineering"
+  institution = "Nanchang University"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
